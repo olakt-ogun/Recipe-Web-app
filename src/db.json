@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "James",
+      "price": "4",
+      "type": "Human",
+      "brand": "Person",
+      "id": 1
+    },
+    {
+      "name": "Tim",
+      "price": "6",
+      "type": "Test",
+      "brand": "Sample",
+      "id": 2
+    }
+  ]
+}
